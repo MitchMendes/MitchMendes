@@ -1,16 +1,17 @@
-## Hi there 👋
+<img width="1274" height="1234" alt="WhatsApp Image 2026-11-06 at 17 37 51" src="https://github.com/user-attachments/assets/fb2b93b4-bc32-415e-9158-4dbbe61b97e6" />
+# Olá, eu sou a Mitchelle! 👋
 
-<!--
-**MitchMendes/MitchMendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de *Engenharia de Software* e *Desenvolvimento de Sistemas, com formação em **Pedagogia (UnB)*. Gosto de unir tecnologia e educação para criar soluções que ensinam e facilitam a vida das pessoas.
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias que estou estudando
+
+Java • JSP • Servlets • JDBC • JPA/Hibernate • MySQL • HTML • CSS • Bootstrap
+
+## 🚀 Sobre mim
+
+- 🎓 Cursando Engenharia de Software (3º semestre)
+- 🛠️ Cursando Técnico em Desenvolvimento de Sistemas
+- 📚 Formada em Licenciatura em Pedagogia
+- 💻 Aprendendo todos os dias e construindo projetos
