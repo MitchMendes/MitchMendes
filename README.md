@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" width="300" alt="Mitchelle Mendes">
+<img width="300" alt="Mitchelle Mendes" src="https://github.com/user-attachments/assets/a1f087a2-fd8c-40da-b763-31c670ac6519" />
 
 # Olá, eu sou a Mitchelle! 👋
 
