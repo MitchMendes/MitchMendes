@@ -1,4 +1,4 @@
-<img width="1274" height="1234" alt="WhatsApp Image 2026-11-06 at 17 37 51" src="https://github.com/user-attachments/assets/fb2b93b4-bc32-415e-9158-4dbbe61b97e6" />
+<img src="2AC320EB-BB4B-4706-B84C-110188B90EBE.png" width="250" alt="Mitchelle Mendes">
 # Olá, eu sou a Mitchelle! 👋
 
 Estudante de *Engenharia de Software* e *Desenvolvimento de Sistemas, com formação em **Pedagogia (UnB)*. Gosto de unir tecnologia e educação para criar soluções que ensinam e facilitam a vida das pessoas.
