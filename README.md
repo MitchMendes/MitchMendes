@@ -20,4 +20,4 @@ Java • JSP • Servlets • MySQL • HTML • CSS • Bootstrap
 - 🎓 Cursando Engenharia de Software (3º semestre)
 - 🛠️ Cursando Técnico em Desenvolvimento de Sistemas
 - 📚 Graduada em Licenciatura em Pedagogia pela UnB
-- 💡 Em constante aprendizado, curiosa por tecnologia e construindo novos projetos todos os dias.
+- 💡 Em constante aprendizado, curiosa por tecnologia.
